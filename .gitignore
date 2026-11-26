@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.vercel/
+*.tsbuildinfo
+.shoebox/
+
+# Claude Code local settings and transient files
+.claude/settings.local.json
+.claude/*.tmp.*
